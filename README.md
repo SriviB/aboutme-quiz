@@ -6,3 +6,6 @@ bundle install
 
 Every time you want to host your webapp, use this:
 shotgun -p $PORT -o $IP
+
+Hello, I am testing an edit!!
+
