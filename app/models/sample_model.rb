@@ -9,7 +9,7 @@ def calc_res(point_total)
         return "Meh..."
     elsif point_total > 5 && point_total < 10
         return "We're not friends."
-    elsif point_total >=0 && point_total < 5
+    elsif >=0 && point_total < 5
         return "I don't even know you!"
     end
 end
